@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 30%;
+    margin: 10rem auto;
+    border: 1px solid black;
+    padding: 3rem 2rem;
+    background-color: aliceblue;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.form-control {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-control select {
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    border: 2px solid orange;
+}
+
+p {
+    text-align: center;
+    color: #070707;
+}
