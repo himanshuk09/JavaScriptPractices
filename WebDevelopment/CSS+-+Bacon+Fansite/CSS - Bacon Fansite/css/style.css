@@ -1,0 +1,22 @@
+body{
+    background-color: #eaf6f6;
+}
+h1{
+    color: #66bfbf;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1000%;
+    
+}
+img:hover{
+    background-color: rgb(170, 180, 75);
+}
+
+ /* #imgid{
+    background-color: chartreuse;
+}  */
+.imgclass{
+    background-color: rgb(101, 179, 179);
+}
+p{
+font-family: fantasy;
+}
